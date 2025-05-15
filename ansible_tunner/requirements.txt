@@ -1,0 +1,4 @@
+ansible>=2.10.0
+
+# Optional: for formatting or logging improvements
+colorama>=0.4.6
